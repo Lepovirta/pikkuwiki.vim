@@ -1,7 +1,0 @@
-Things get from store
-
-* eggs
-* milk
-* juice
-* bread
-

@@ -1,6 +1,0 @@
-List of projects
-
-* ~thesis
-* ~codeproject1
-* ~codeproject2
-
